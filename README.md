@@ -1,7 +1,4 @@
-# MCreator-Plugins  
-Sumeshi2's MCreator plugins  
-  
-# Plugin List  
+# Sumeshi2's MCreator-Plugins    
 Additions  
 MathUtils  
 VectorUtils  
