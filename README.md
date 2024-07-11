@@ -1,5 +1,5 @@
 # Sumeshi2's MCreator-Plugins    
 Additions  
-MathUtils  
-ResourceManager  
-VectorUtils  
+Math Utils  
+Resource Manager  
+Vector Utils  
