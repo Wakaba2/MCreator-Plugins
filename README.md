@@ -1,4 +1,4 @@
-# Sumeshi2's MCreator-Plugins    
+# Sumeshi2's MCreator Plugins    
 Additions  
 Math Utils  
 Resource Manager  
